@@ -1,4 +1,4 @@
-# Dosiomics-Guided-Deep-Learning
+# Dosiomics-Guided Deep Learning for Radiation Esophagitis Prediction in Lung Cancer
 An architecture using ResNet as the backbone was developed to fuse DL features with dosiomic features while incorporating prior knowledge to guide the prediction model.
 # Data Collection
 Using patient CT images and radiation dose distribution images from three hospitals.
